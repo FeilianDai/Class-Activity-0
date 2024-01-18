@@ -1,0 +1,27 @@
+- Gabriel Gladstone
+- zwy7ce
+- I have taken the following courses that will enable me to succeed in this course:
+    SDE1 & AdvSDE
+    CSO1 & CSO2 
+    Intro to Embedded Computer Systems
+    ECE FUN Series
+    AI Hardware
+    Digital Logic Design
+  These course have exposed me to the following programmings languages and technologies relevant to this course:
+    Java, C, Python, Assembly, C++
+    MSP432, Arduino, AD2
+  I have worked on some projects with these languages and technologies:
+    • In Intro to Engineering I created a wireless detection system for waste collection using an 
+      Arduino IOT microcontroller and Arduino products to alert staff where and when a trash can is full on campus. 
+    • In Intro to Embedded Computer Systems I created a volume controller with an LCD screen and MSP432.
+    • In AI HW I worked on a few projects with the Brainchip AKD1000-powered Mini PCIe board for tiny ML applications.
+
+    Overall my background from courses and projects has exposed me to topics such as computer architecture, operating systems,
+    memory management, compiling, data structures and more that will help me succeed in this course.
+- As a Computer Engineer I am very interested in embedded systems because it is an interesting intersection of hardware 
+    and software. I want to work in embedded systems, espesially on cyber physical systems in areas like IOT or smary cities
+    because I believe these embedded systems will have a large impact on people's lives. I really like how cyber physical 
+    systems (CPS) impact the real world whether that be autonomous vehicles or robotic surgery, CPS have real impact. I hope
+    to learn the basics of RTOS and develop the skills necessary to begin taking on CPS projects. I hope to learn about the
+    inner workings of an embedded system so I can focus on optimizing the control flow and reliability in a cyber physical 
+    process. I have some experience with embedded systems, but I hope to develop more foundational knowledge.   

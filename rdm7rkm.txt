@@ -1,0 +1,3 @@
+Ratik Mathur - rdm7rkm
+I have taken UVA's Computer Architecture (CS 3330) and Operating Systems (CS 4414) courses, and have also worked with an arduino in the past to build a water temperature sensor that lit up a certain LED color based on the range of the water temperature. I have also used embedded C to program a movable claw for a modified iRobot Roomba.
+I am interested in electronics and low-level systems such as networking and computing architecture. I am interested in learning about embedded computing as I have never taken a course on it. I'm hoping to gain a basic understanding of embedded computing to be able to hold intelligent conversations with coworkers at my upcoming embedded software internship this summer.
