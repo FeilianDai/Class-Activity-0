@@ -1,0 +1,10 @@
+Robert Smith, ayk5vh
+I have taken Introduction to Embedded Systems as well as a little experience with Arduino. I am
+currently in Computer Architecture as well as Introduction to VLSI. I have experience in Python, Java, and C
+from previous CS classes.
+Initially I wanted to be a CS major, but after taking some CS classes I decided I would enjoy Computer
+Engineering more, as it allows for me to endulge in code while also learning about the hardware portion of
+computers. After doing so I have much more enjoyed the hardware than the software, until I took intro to embedded.
+It had really peaked my interest as it combined the circuitry with the coding that I loved to do. My hope for this class 
+is to further my knowledge of computer science and hardware and how they connect, as well as using higher level computer
+science principles with the embedded hardware. 
