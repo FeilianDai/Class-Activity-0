@@ -1,6 +1,4 @@
-My name is Lance Shaffer and my computing ID is YEM9HE. For embedded systems design, I have taken ECE3430 - Introduction to Embedded Computer Systems.
-I am currently enrolled ECE4435 - Computer Architecture and Design. These classes (including this one) are the extent of my embedded system programming and design.
-For programming, I have completed several of the UVA CS courses that were both required and not required. I have programmed in Java (for school), python (for school and an internship),
-MatLab (for an internship), both VHDL and Verilog (for an internship), and C (for school).
+My name is Lance Shaffer and my computing ID is YEM9HE.
+For embedded systems design, I have taken ECE3430 - Introduction to Embedded Computer Systems. I am currently enrolled ECE4435 - Computer Architecture and Design. These classes (including this one) are the extent of my embedded system programming and design. For programming, I have completed several of the UVA CS courses that were both required and not required. I have programmed in Java (for school), python (for school and an internship), MatLab (for an internship), both VHDL and Verilog (for an internship), and C (for school).
 
 Some of my interests include reading, hiking / camping, and cooking. I have also recently begun (attempting) to play the trumpet to broaden my horizons. It is fun. From this class, I hope to gain a better understanding of the complexities of cyber-physical systems, particularly because I am interested in controls engineering. I would also like to better understand the design aspects of engineering since that is not an aspect that I have been particularly exposed to yet.
