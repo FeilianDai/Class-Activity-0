@@ -1,0 +1,30 @@
+Daniel Xue, dlx3ud
+
+I am a fourth-year computer and electrical engineering major here at UVA, 
+where I've been exposed to a decent amount of embedded systems and their components. 
+I have taken the following related courses: 
+- Intro to Embedded Systems, 
+- Operating Systems, 
+- Computer Architecture, 
+- Embedded System Design (Capstone), 
+- AI Hardware, 
+- and Control Systems. 
+I have created the following relevant projects:
+- Mountain Directed Energy Wayfinder Capstone Project 
+    - (automated assistive astronomy tool using STM32G071RB and LCD header board)
+I have also worked with the MSP430 and the TI Code Composer platform for Intro to Embedded,
+and the NVidia Jetson Nano board for my final group demonstration in AI Hardware. 
+The programming languages I am most familiar with are C/C++, Python, and MATLAB. 
+
+I am interested in studying embedded systems both from an engineering and a policy perspective. 
+While a lot of my undergraduate engineering education was focused on designing circuits and systems
+to approach embedded systems as optimization problems addressing constraints in power, latency, memory,
+this past summer I worked for the Science and Technology team at the U.S. Government Accountability Office, 
+where I evaluated the performance, benefits, and challenges of virtual reality (VR) and augmented
+reality (AR) systems at a high-level. Gaining a more formal understanding of embedded system design as 
+a whole will give me a platform to equally apply both my engineering technical background and these 
+other skills in policy analysis and work and seeing how they can combine into something that can 
+benefit lots of people. At the same time, I would like to also learn to properly evaluate existing
+embedded systems to make sure they meet quantitative measures of performance, and see how that knowledge
+can be applied in this burgeoning field as leaders in industry/government/academia are figuring out
+what standards and guardrails should be in place for these systems to ensure certain levels of performance. 
