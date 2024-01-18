@@ -1,0 +1,20 @@
+Hudson Burke (hpb7kr)
+
+Embedded Background:
+- BS Computer Engineering
+Courses taken: 
+- Operating Systems
+- Computer Architecture
+- Embedded Computing and Robotics I/II
+- Mechatronics / Advanced Mechatronics
+- Digital Logic Design
+Projects:
+- Autonomous Foosball Opponent Capstone Project (TI MSP432 and Raspberry Pi)
+- Sands of Time Kinetic Art Clock (Propeller 2)
+- Robotic Motor Control (Arduino)
+Programming Languages:
+- C / C++
+- Python
+- Spin / Spin2
+
+I am interested in the applications of embedded systems for robotics, and I hope to gain a deeper understanding of how to manipulate low-level hardware to better accomplish tasks for robotics and other real-world applications. 
