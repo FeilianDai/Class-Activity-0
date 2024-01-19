@@ -1,0 +1,23 @@
+John Berberian, Jr. (ccg3sr)
+
+Background:
+ - Working with Swami's group on developing an embedded system for real-time microfluidic deformability measurements.
+
+Courses:
+ - Intro to Embedded
+ - CSO 1
+
+Projects:
+ - Microfluidic impedance cytometry: real-time trigger mechanism
+
+Platforms and Processors:
+ - MSP432, Cortex-M4F
+ - STM32H745ZI, Cortex-M7 and Cortex-M4F
+
+Languages:
+ - C / C++
+ - Python
+ - Rust
+ - Java
+
+I have an interest in CPS and real-time systems, and I'd like to try using an RTOS with scheduling to do complex tasks in a resource-constrained environment. I also have a research project that would directly benefit from learning how to structure embedded firmware to optimize for tight timing constraints.
