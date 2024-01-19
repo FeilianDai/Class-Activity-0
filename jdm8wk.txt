@@ -1,0 +1,32 @@
+Casey Ladd, jdm8wk
+
+Introduction to Embedded Systems: Previously taken
+	Equipment: TI MSP432
+	Software: Code Composer Studio
+	Projects: As the TI MSP432 communicates with a I2C serial communication protocol and an interface to a Liquid Crystal Display module, I designed a Finite State Machine to decode the quadrature encoded signals encoded with a rotary encoder
+
+ECE Fundamental Series: Previously taken
+	Equipment: Diligent AD2
+	Software: NI Multisim and Ultiboard
+	Projects: Created a boost converter, Created a filteration system for a song audio file to be displayed by two LED lights, Created an electrocardiogram
+AI Hardware: Previously taken
+	Equipment: Arduino, BrainChip
+	Software: Arduino, Edge Impulse
+	Projects: I wanted to investigate the effects of noise filtering on the efficacy of a machine-learning model. What I looked to do is see if filtering out either high-frequency noise or low-frequency noise improves the accuracy of a machine-learning classification model. The goal of this is to discover if it is more important to prioritize filtering out high-frequency noise or low-frequency noise. We will test our model on the BrainChip AKD1000 MINI PCIe board. The results of this will help engineers know whether to try to capture certain frequencies over others when trying to denoise audio data in a noisy environment. 
+Digital Logic Design: Previously taken
+	Software: Digital
+	Project: Design a basic CPU with a opcode decoder, intruction sequencer finite state machine, control signals logic, and a datapath
+Computer Systems and Organization I & II: Previously taken
+Computer Architecture and Design: Currently taking
+
+Computer Languages:
+	Python
+	C
+	Java
+	MATLAB
+	R
+	SQL (MySQL, SQLite)
+	Verilog
+	C++
+
+At this point in my life in college, I can finally do some exploring with the different types of fields and industries in electrical and computer engineering.  One of the areas I wanted to explore was embedded systems. One of the main influences for taking this class is the Introduction class with Professor Delong. I had a great experience in that class, and it is still my favorite class that I have taken at the university so far. The class combined understanding some hardware architecture with microcontrollers with programming. I liked applying C and using registers and interrupts to create finite state machines and do signal processing. At the moment, I feel like I am interested in learning more about embedded systems, computer architecture, signal processing, and cyber-physical systems, so I decided to take a class in each field this semester to see which one I like the most. I hope that this semester will help me develop a clear end goal that will lead me to a career that I will enjoy for the rest of my life.
