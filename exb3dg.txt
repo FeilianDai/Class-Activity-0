@@ -1,0 +1,3 @@
+Ellianna Bailey (exb3dg)
+I'm currently a first year ECE graduate student. My background is mechanical engineering undergraduate with a CS minor here at UVA. I have experience with Python, Java, and C++ because of the minor, but I did not take a lot of the higher level CS or ECE classes. I've worked with Arduino boards and the Parallax Propeller 2 microcontroller.
+I'm in Doctor Sarah Sun's group that works in the soft wearable robotics. I'd like to learn more about microcontrollers (how they are builtwork, how to use them) and how to select the right one depending on a project's needs.
