@@ -1,0 +1,18 @@
+Sharon Lu (sxl2fm)
+
+I'm a fourth year Computer Engineering major. I've taken Intro to Embedded, Operating Systems,
+Capstone, and am currently enrolled in Computer Architecture and Design. For our capstone 
+project, we developed a pickleball training machine that feeds pickleballs to a player from the 
+other side of the court. It uses a simple embedded system that allows the user to select shot 
+and drill settings. I also interned on the Firmware Accessories Team at Xbox over the summer 
+and worked on power consumption testing tools for their controllers. I have developed on the MSP430, 
+STM32, and Arduino. The languages I have developed in are C/C++, Python, Java, and JavaScript.
+
+I am very interested in the intersection of embedded systems and sports/medicine, particularly tracking
+player and patient wellbeing and safety. While I am currently planning to work on embedded systems at 
+Xbox after graduation, I am considering grad school in a couple years. I'll be doing some research 
+with embedded systems in the Link Lab this semester with Professor Watson, so I hope this class will 
+provide valuable experience and knowledge that I can use in research and industry.
+
+
+
