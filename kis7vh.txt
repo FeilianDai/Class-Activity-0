@@ -1,0 +1,3 @@
+Karan Singh (kis7vh)
+Computer architecture and operating systems (C, C++)
+Super interested in low-level applications of software, like in operating system kernels and even computer architecture. Also interested in networking, optimizations, and high performance computing. I have never worked with an embedded system but know that there is overlap with operating system principles, so I am looking to learn about embedded programming and seeing if there is any transfer between that and kernel programming.
