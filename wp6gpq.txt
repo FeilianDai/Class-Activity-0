@@ -1,0 +1,3 @@
+Name: Klaus Peng; UVA ID: wp6gpq
+Courses taken: Computer Architecture (CS 3330); Programming languages: Java, C, C++, C#, Python, Assumbly, Y86
+I am interested in AI, ML and game designs. I am taking this course to expand my horizon into different areas of CS and to see if I can find any new things that interestes me.
