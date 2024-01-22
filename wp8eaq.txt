@@ -1,0 +1,3 @@
+Weihe(Lukas) Peng	wp8eaq
+I don't have any embedded systems design background but I have taken OS and Computer Architecture courses before. In OS we built our own OS that does task switching, job scheduling, interrupt handeling and virtual memory address translation.
+I'm interested in AI/ML and computer game design. In OS class, we had the chance to use a Raspberry Pi to host the OS instead of a simulated platform, but the number of equipments were limited so I didn't get to try it. In this class, I hope I can get more experience using such systems.
