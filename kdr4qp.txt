@@ -1,0 +1,8 @@
+Feilian Dai, kdr4qp
+
+I am a first-year CPE graduate student. During my undergraduate studies, I took courses in Embedded Systems, Computer Architecture, and Real-Time Operating Systems. Currently, I am taking Computer Architecture and Design.
+
+Programming Languages: C, C++, Java, Python, VHDL, Verilog, Assembly
+Microcontrollers and Embedded Platforms: Arduino, AVR
+
+My personal interests lie in Embedded Systems, Operating Systems, and Computer Vision. I have worked on some projects involving autonomous robots and F1Tenth before. Through this class, I hope to deepen my understanding of Embedded Systems and IoT, which I believe will be beneficial for my future studies.
