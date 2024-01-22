@@ -1,0 +1,5 @@
+Name:Zeyang Zheng UVA ID:yuq8cp
+
+I am a first-year graduate student in ECE. Before that, I took some courses which are related to embedded systems design, such as computer architecture and the foundation of embedded system development. For the embedded platform and micro-controllers, I used the stm32 and Google Coral Tpu. I tried to deploy some Image classification models and object detection models to the Google Coral Tpu and explore these models' performance. And I am familiar with C/C++, python, and Matlab.
+
+For me, I am interested in embedded systems, especially in the software surface. I hope to learn more knowledge about software-embedded systems.
